@@ -1,3 +1,6 @@
 [submodule "OpenApiGenerator"]
 	path = OpenApiGenerator
 	url = https://github.com/samaniel/OpenApiGenerator
+[submodule "Hexagonal"]
+	path = Hexagonal
+	url = ./Hexagonal
