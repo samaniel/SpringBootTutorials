@@ -1,0 +1,3 @@
+[submodule "OpenApiGenerator"]
+	path = OpenApiGenerator
+	url = ./OpenApiGenerator
